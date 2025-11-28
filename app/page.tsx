@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Dashboard</h1>
+      <h1>Racine Page</h1>
     </div>
   );
 }
